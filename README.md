@@ -4,7 +4,7 @@ I have more than 15 years of experience in PHP development, as well as design an
 ## Experience as PHP Developer
 - Development of software for high-load projects using pure PHP without frameworks. Including various billing systems and RESTful web services (API)
 - Integration of various payment systems and gateways: PayPal, Paysera, Payssion, Unicard, TBC Checkout, Cryptocurrency, etc.
-- PHP 5, PHP 7, OOP
+- PHP 5, PHP 7, OOP, Laravel
 - SQL, MySQL / MariaDB, SQLite, Redis
 
 ## Experience with services, systems and technologies
