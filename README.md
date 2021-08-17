@@ -1,4 +1,4 @@
-👋 Hi, I’m @Icemont, PHP Backend Developer, Linux Engineer and Linux enthusiast. I'm a fast self-learner and almost all knowledge I have is self-taught.
+👋 Hi, I’m @Icemont, PHP Backend Developer, DevOps Engineer and Linux enthusiast. I'm a fast self-learner and almost all knowledge I have is self-taught.
 I have more than 15 years of experience in PHP development, as well as design and maintenance of IT infrastructure, including high-load projects requiring high availability.
 
 ## Experience as PHP Developer
