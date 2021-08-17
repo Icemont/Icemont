@@ -11,6 +11,7 @@ I have more than 15 years of experience in PHP development, as well as design an
 - Debian and Linux distributions based on Debian (Ubuntu, Devuan)
 - Extensive experience with Proxmox VE, setting up and maintaining Proxmox clusters
 - KVM virtualisation
+- IaC, IaaS
 - InfluxDB and Grafana for infrastructure monitoring
 - Docker
 - Nginx (configuration and optimization)
